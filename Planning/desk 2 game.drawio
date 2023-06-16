@@ -1,0 +1,262 @@
+<mxfile host="app.diagrams.net" modified="2023-06-05T11:16:46.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mv13Ggmas52mqzdL9g3p" version="21.3.5" type="device">
+  <diagram name="Page-1" id="pi5ZYllnXMlKro6cVnmL">
+    <mxGraphModel dx="2985" dy="2638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_f-qhlE12oUDLF6dOdod-7" value="START" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-8" value="Enter name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-13" value="Introduce character &amp;amp; world, then a call to action." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-14" value="what do you do?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-15" value="Recieve a letter,&amp;nbsp; a town is under durress, something is killing their farm animals and need you to investigate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-16" value="Health" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-17" value="accept task/or not" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-18" value="dialogue will take you to location &amp;amp; include artwork." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-19" value="Arrive at the threshold of the village" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="540" />
+              <mxPoint x="110" y="840" />
+              <mxPoint x="440" y="840" />
+              <mxPoint x="440" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-20" value="Farmhand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="531" y="540" />
+              <mxPoint x="531" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-21" value="Blacksmith" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-22" value="Guard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-26" value="Doesn&#39;t trust you" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-28" target="_f-qhlE12oUDLF6dOdod-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-28" value="Takes you to last&amp;nbsp;&lt;br&gt;known location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-29" target="_f-qhlE12oUDLF6dOdod-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-29" value="Sharpens sword" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-31" value="Stats" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-32" value="Pictures" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-33" target="_f-qhlE12oUDLF6dOdod-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-33" value="See animal remains." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-36" target="_f-qhlE12oUDLF6dOdod-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-36" target="_f-qhlE12oUDLF6dOdod-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-36" value="Hear noise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.042;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1274.96" y="618.8000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-38" value="inspect remains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-39" target="_f-qhlE12oUDLF6dOdod-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-39" value="explore sounds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-44" target="_f-qhlE12oUDLF6dOdod-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-44" target="_f-qhlE12oUDLF6dOdod-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-44" value="Surprise attack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-47" target="_f-qhlE12oUDLF6dOdod-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-47" value="Follow trail to find the&lt;br&gt;monster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-51" target="_f-qhlE12oUDLF6dOdod-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-51" value="If sharpened sword, defend yourself." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-52" value="Else, die" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-55" target="_f-qhlE12oUDLF6dOdod-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-55" value="See creature feeding, have a chance to attack it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-57" target="_f-qhlE12oUDLF6dOdod-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-57" target="_f-qhlE12oUDLF6dOdod-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-57" value="Creature is stunned" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-61" value="Observe creature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-62" value="Kill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2080" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-64" value="Take it back alive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-66" value="More encounters" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-70" target="_f-qhlE12oUDLF6dOdod-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-70" value="As the towns people applaud, monster escapes and wreaks havoc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-71" value="Reward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-72" target="_f-qhlE12oUDLF6dOdod-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-72" value="Take trophy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2065" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-74" target="_f-qhlE12oUDLF6dOdod-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-74" target="_f-qhlE12oUDLF6dOdod-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2430" y="170" />
+              <mxPoint x="2430" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-74" value="Protect people" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-77" value="Go for the kill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-80" target="_f-qhlE12oUDLF6dOdod-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-80" value="Save the person from an environmental hazard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-82" target="_f-qhlE12oUDLF6dOdod-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-82" value="Monster grabs hold of Guard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-84" target="_f-qhlE12oUDLF6dOdod-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-84" target="_f-qhlE12oUDLF6dOdod-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-84" value="option&amp;nbsp; to save him on dice roll" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-87" target="_f-qhlE12oUDLF6dOdod-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-87" value="Accept" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_f-qhlE12oUDLF6dOdod-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2760" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-89" value="Decline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2610" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-93" value="slay creature but guard dies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f-qhlE12oUDLF6dOdod-94" value="Save guard and slay creature, greater reward?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
